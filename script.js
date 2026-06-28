@@ -22,7 +22,7 @@ const songsList = [
         title: "Bewafaa",
         artist: "Imran Khan",
         src: "./media/Bewafa - Imran Khan.mp3", 
-        img: "./media/ewafaa.jpg"
+        img: "./media/bewafaa.jpg"
     }
 ];
 
