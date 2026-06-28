@@ -13,16 +13,16 @@ const songsList = [
         img: "./media/humne-wahin-lagaya-dil-pati-patni-aur-woh-do-500-500.jpg"
     },
     {
-        title: "Give Me Some Sunshine",
-        artist: "Sharman Joshi, Suraj Jagan",
-        src: "./media/Aal Izz Well – 3 Idiots Aamir Khan Madhavan Sharman J Sonu N Swanand K Shaan Shantanu M.mp3", 
-        img: "./media/all is well.jpg"
+        title: "Piya ghar aya",
+        artist: "Fareed Ayaz, Abu Muhammad Qawwal & Brothers",
+        src: "./media/1769104689_PiyaGharAaya.mp3", 
+        img: "./media/piya ghar aya.jpg"
     },
     {
-        title: "Dil Dhadakne Do",
-        artist: "Priyanka Chopra, Farhan Akhtar",
-        src: "./media/Humne Wahin Lagaya Dil Pati Patni Aur Woh Do 128 Kbps.mp3", 
-        img: "./media/humne-wahin-lagaya-dil-pati-patni-aur-woh-do-500-500.jpg"
+        title: "Bewafaa",
+        artist: "Imran Khan",
+        src: "./media/Bewafa - Imran Khan.mp3", 
+        img: "./media/bewafa.jpg"
     }
 ];
 
